@@ -24,5 +24,6 @@ _Get started using GitHub in less than an hour._
 I'm new in this work space so, I would like to have a lot of share but it isn't the case.
 
 - **First**: I have been working on my self-develop and is my first time to use Git.
-- **Then**: I worked in diferent programs before such as apps web and no less important shool projets like a management clinic system
+- **Then**: I worked in diferent programs before such as apps web and no less important shool projets like a management clinic system.
+
 That is all for now, I will continue update this.
